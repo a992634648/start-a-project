@@ -1,6 +1,6 @@
 $ mkdir learngit
 $ cd learngit
 $ pwd
-E:\test
+/E:/test
 $ git init
 Initialized empty Git repository in /Users/michael/learngit/.git/
